@@ -8,7 +8,7 @@
 - Fly.io
     - Do not gitignore fly.io stuff, including Dockerfile, .dockerignore, fly.toml
     - in fly.toml: `[env] PORT=8080` and `internal-port=8080` must be set
-- nim:
+- vim:
     - `gx` to open a link or a source url
 - TailwindCSS
 ```
