@@ -1,3 +1,5 @@
+- Shell
+    - omitting cd is possible in zsh or bash? (current zsh setup allows it).
 - React Native
     - fixing start watchmen: https://github.com/facebook/react-native/issues/9116
     - components must be wrapped with <View> to use flex/width/height. 
