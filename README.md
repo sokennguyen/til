@@ -21,4 +21,9 @@
 },
 ```
 - Babylon.js
-    - use .babylon meshes instead of .glb if facing `importmesh undefined`
+    - use .babylon meshes instead of .glb if facing `importmesh undefined` in Reactjs
+- Go
+    - gopls is Go's lsp (available in Mason)
+    - echo is Go's web server
+    - air is Go's hot reload/bundler
+
