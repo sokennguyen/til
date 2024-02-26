@@ -26,4 +26,7 @@
     - gopls is Go's lsp (available in Mason)
     - echo is Go's web server
     - air is Go's hot reload/bundler
+- MUI
+    - CardMedia for images. Image component doesn't exist.
+    - Fit image in CardMedia with sx={{objectFit:'contain'}}
 
