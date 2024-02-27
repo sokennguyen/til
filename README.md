@@ -29,4 +29,5 @@
 - MUI
     - CardMedia for images. Image component doesn't exist.
     - Fit image in CardMedia with sx={{objectFit:'contain'}}
-
+- Nextjs
+    - import '@' where @ is an alias for the root dir in the project.
