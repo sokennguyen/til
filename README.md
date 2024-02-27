@@ -31,3 +31,4 @@
     - Fit image in CardMedia with sx={{objectFit:'contain'}}
 - Nextjs
     - import '@' where @ is an alias for the root dir in the project.
+    - route|page|folder (same thing)
