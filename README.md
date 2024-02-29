@@ -32,3 +32,5 @@
 - Nextjs
     - import '@' where @ is an alias for the root dir in the project.
     - route|page|folder (same thing)
+    - 'use client' is needed to make a component Client Component. If not, components are atomatically Server Components, meaning that it will get rendered in the server and functions run inside of it will run in the server (especially database queries).
+    - because Server Components runs in the server, console.log() doesn't output in the browser, but in the server's terminal instead.
