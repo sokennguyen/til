@@ -20,6 +20,8 @@
   "watch-css": "tailwindcss build -i ./src/index.css -o ./public/output.css --watch",
 },
 ```
+- CSS
+    - Header margin must go with `overflow:hidden` at body/root
 - Babylon.js
     - use .babylon meshes instead of .glb if facing `importmesh undefined` in Reactjs
 - Go
